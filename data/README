@@ -1,0 +1,3 @@
+-BS_data: 2K labeled dataset
+-unlabeled: Unlabeled dataset
+-crawler.py: instagram crawler; collects and saves posts and images
